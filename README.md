@@ -33,6 +33,18 @@
 
 ---
 
+### 🚀 Quick Links & Daily Flow
+| 📅 2026 Focus | 🧠 Knowledge Base | 🎶 Working Music |
+| :---: | :---: | :---: |
+| [![Todo](https://img.shields.io/badge/2026_상반기-투두리스트-blue?style=flat-square&logo=github)](https://github.com/users/dorigum/projects/1) | [![NotebookLM](https://img.shields.io/badge/NotebookLM-공부_노트-E37400?style=flat-square&logo=google)](https://notebooklm.google.com/notebook/026bc33a-5adb-4dbb-970a-f1116c05c871) | [![Playlist](https://img.shields.io/badge/빼꼼쓰-노동요-1DB954?style=flat-square&logo=spotify)](https://open.spotify.com/playlist/2wfOsCeCEvEKlDhQ0RYg4p?si=KbqnExpKRXGpynhE3V_SLw&nd=1&dlsi=33fdfb22bac54b5d) |
+
+> "오늘의 노력이 내일의 나를 만든다! 🐾"
+---
+### 🔗 My Links
+- 📅 [2026 상반기 투두리스트](https://github.com/users/dorigum/projects/1)
+- 🧠 [Personal Study Note (NotebookLM)](https://notebooklm.google.com/notebook/026bc33a-5adb-4dbb-970a-f1116c05c871)
+- 🎧 [빼꼼쓰 노동요 플레이리스트](https://open.spotify.com/playlist/2wfOsCeCEvEKlDhQ0RYg4p?si=KbqnExpKRXGpynhE3V_SLw&nd=1&dlsi=33fdfb22bac54b5d)
+---
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=[dorigum]&show_icons=true&theme=radical" alt="stats" />
