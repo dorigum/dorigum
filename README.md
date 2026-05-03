@@ -50,6 +50,7 @@
 > 공공 여행 데이터, 날씨 정보, 사용자 선호 지역, 위시리스트, 커뮤니티 기능을 결합한 여행 큐레이션 서비스
 
 최근에는 CodeTrip 프로젝트를 기존 Express/MySQL 구조에서 Firebase 기반 배포 구조로 전환했어요.
+🚞CodeTrip https://newagent-9c2a8.web.app/
 
 #### ✨ 제가 집중한 작업
 
