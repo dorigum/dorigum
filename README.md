@@ -15,6 +15,32 @@
 - 🔥 작은 실습도 기록으로 남기고, 매일 조금씩이라도 커밋하면서 꾸준히 성장하는 것이 목표예요.
 - 📧 `kkamang03@gmail.com`
 
+## 📌 My Working Style
+
+- 📝 기능을 만들기 전에 목적과 사용자 흐름을 먼저 정리해요.
+- 🧩 작은 단위로 구현하고 바로 확인해요.
+- 🐛 에러가 나면 원인을 기록하고, 해결 과정을 다시 설명할 수 있게 정리하려고 해요.
+- 📚 작업이 끝나면 코드 실습과 문서화를 함께 가져가며, 학습 맥락을 잃지 않으려고 노력 중이에요.
+- 🔗기획, 개발, 배포를 따로 보지 않고 하나의 서비스 흐름으로 이해하려고 해요.
+- 🌱 완벽하진 않아도 매일 조금씩 나아지는 개발자가 되고 싶어요.
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Backend & Server
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) 
+<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"> ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+
+### 💾 Database & Cloud
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> ![AWS|54](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🎨 Frontend
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white">
+
+### 🧰 DevOps & Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> ![GitHub Actions|161](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
 ---
 
 ## 🌱 2026 Study Log
@@ -62,23 +88,6 @@
 
 ---
 
-## 🛠 Tech Stack
-
-### 💻 Backend & Server
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) 
-<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"> ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
-
-### 💾 Database & Cloud
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> ![AWS|54](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### 🎨 Frontend
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white">
-
-### 🧰 DevOps & Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> ![GitHub Actions|161](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
----
-
 ## 🚀 Recent Project
 
 ### 🧳 CodeTrip
@@ -106,17 +115,6 @@
 - Firebase는 빠르게 배포하기 좋지만, 데이터 구조와 보안 규칙 설계가 중요하다는 것
 - 기능 구현만큼이나 사용자 흐름을 자연스럽게 만드는 것이 중요하다는 것
 - 작업 내역을 문서화하면 프로젝트의 구조, 흐름 파악이 가능하다는 것
-
----
-
-## 📌 My Working Style
-
-- 📝 기능을 만들기 전에 목적과 사용자 흐름을 먼저 정리해요.
-- 🧩 작은 단위로 구현하고 바로 확인해요.
-- 🐛 에러가 나면 원인을 기록하고, 해결 과정을 다시 설명할 수 있게 정리하려고 해요.
-- 📚 작업이 끝나면 코드 실습과 문서화를 함께 가져가며, 학습 맥락을 잃지 않으려고 노력 중이에요.
-- 🔗기획, 개발, 배포를 따로 보지 않고 하나의 서비스 흐름으로 이해하려고 해요.
-- 🌱 완벽하진 않아도 매일 조금씩 나아지는 개발자가 되고 싶어요.
 
 ---
 
