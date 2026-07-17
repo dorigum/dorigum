@@ -203,10 +203,11 @@
 
 ### 🤝 Collaboration & Docs
 
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white">
 
 - Discord로 팀원들과 진행 상황, 이슈, 회의 내용을 빠르게 공유했어요.
 - Notion에 기획 문서, 회의록, API 흐름, 작업 체크리스트를 정리했어요.
+- Obsidian에는 개인 학습 기록, 트러블슈팅, 프로젝트 회고를 연결해 정리하고 있어요.
 - 구현 전에는 사용자 흐름을 먼저 정리하고, 구현 후에는 작업 로그와 회고를 남기려고 해요.
 
 ---
@@ -217,7 +218,7 @@
 - 🧩 작은 단위로 구현하고 바로 확인해요.
 - 🐛 에러가 나면 원인을 기록하고, 해결 과정을 다시 설명할 수 있게 정리하려고 해요.
 - 📚 작업이 끝나면 코드 실습과 문서화를 함께 가져가며 학습 맥락을 잃지 않으려고 해요.
-- 🤝 Discord와 Notion을 활용해 팀원들과 같은 맥락을 보고 작업하려고 해요.
+- 🤝 Discord와 Notion으로 팀원들과 같은 맥락을 보고, Obsidian으로 개인 학습 흐름을 이어가려고 해요.
 - 🔗 기획, 개발, 배포를 따로 보지 않고 하나의 서비스 흐름으로 이해하려고 해요.
 - 🌱 완벽하진 않아도 매일 조금씩 나아지는 개발자가 되고 싶어요.
 
