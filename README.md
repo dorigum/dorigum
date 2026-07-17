@@ -71,24 +71,31 @@
 
 ### 🧳 02_Frontend Project_CodeTrip
 
-> 공공 여행 데이터, 날씨, 위시리스트, 폴더, 메모, 체크리스트, 커뮤니티 기능을 결합한 여행 큐레이션 서비스예요.
+> 2인 팀 프로젝트로 시작해 AWS 기반으로 배포했던 여행 큐레이션 서비스를,<br>
+> 이후 공모전 제출을 위해 개인적으로 Firebase 기반 구조로 전환하며 다시 정리한 프로젝트예요.
+
+공공 여행 데이터, 날씨, 위시리스트, 폴더, 메모, 체크리스트, 커뮤니티 기능을 결합한 여행 큐레이션 서비스입니다.
 
 - **Main Repo**: https://github.com/dorigum/2_CodeTrip_Project
 - **Firebase Log Repo**: https://github.com/dorigum/CodeTrip-firebase-log
 - **Service**: https://newagent-9c2a8.web.app/
-- **Stack**: React, Vite, Zustand, Tailwind CSS, Express, MySQL, Firebase Authentication, Realtime Database, Firebase Hosting
+- **Original Deploy**: AWS 기반 2인 팀 프로젝트 배포 경험
+- **Personal Refactor**: 공모전 제출 목적의 Firebase Authentication / Realtime Database / Hosting 전환
+- **Stack**: React, Vite, Zustand, Tailwind CSS, Express, MySQL, AWS, Firebase Authentication, Realtime Database, Firebase Hosting
 
 #### ✨ 제가 집중한 작업
 
-- Firebase Authentication 기반 로그인/회원가입과 Hosting 배포 구조로 전환했어요.
-- Realtime Database 기반 위시리스트, 폴더, 메모, 체크리스트 데이터 구조를 정리했어요.
+- 2인 팀 프로젝트로 AWS 배포까지 진행한 뒤, 공모전 제출 목적에 맞춰 Firebase 기반 배포 구조로 개인 전환했어요.
+- Firebase Authentication 기반 로그인/회원가입과 Hosting 배포 흐름을 정리했어요.
+- Realtime Database 기반 위시리스트, 폴더, 메모, 체크리스트 데이터 구조를 다시 설계했어요.
 - 여행지 상세, Kakao Map, 최근 본 여행지, 커뮤니티 게시글/댓글 UX를 개선했어요.
 - 날씨와 관심 지역을 활용한 여행지 추천 흐름을 보완했어요.
 - Firebase 전환 문서, 수정 로그, 상세 내역서를 작성했어요.
 
 #### 🧠 이번 작업을 통해 배운 것
 
-- “로컬에서 되는 코드”와 “배포해서 실제로 쓰는 코드”는 다르다는 것
+- “팀 프로젝트로 만든 서비스”를 목적에 맞게 개인 제출용 구조로 다시 정리하는 과정도 중요한 개발 경험이라는 것
+- “로컬에서 되는 코드”, “AWS에서 배포되는 코드”, “Firebase로 빠르게 제출 가능한 코드”는 각각 설계 관점이 다르다는 것
 - Firebase는 빠르게 배포하기 좋지만, 데이터 구조와 보안 규칙을 처음부터 잘 생각해야 한다는 것
 - 기능 구현만큼이나 사용자가 자연스럽게 이동하고 저장하고 다시 확인하는 흐름이 중요하다는 것
 
