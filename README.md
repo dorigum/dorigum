@@ -72,6 +72,7 @@
 
 | Repo | 기록한 내용 |
 | --- | --- |
+| [Final_ZIPT_Project](https://github.com/dorigum/Final_ZIPT_Project) | 전세사기 예방 및 부동산 가이드 AI 분석 서비스 (팀 공용 백업 저장소) |
 | [306-DevOps-Edu](https://github.com/dorigum/306-DevOps-Edu) | KOSTA DevOps 306기 Java/Spring/DevOps 학습 기록 |
 | [3_CodeMate_Project](https://github.com/dorigum/3_CodeMate_Project) | Spring Security 기반 개발자 스터디 서비스 백엔드 |
 | [2_CodeTrip_Project](https://github.com/dorigum/2_CodeTrip_Project) | React 기반 여행지 소개 및 추천 서비스 |
