@@ -24,7 +24,7 @@
 - **성능 최적화**: `React.lazy` 지연 로딩을 통한 초기 JS 메인 번들 **73.7% 감축** (1,243KB ➡️ 327KB) 및 LCP 개선
 - **리소스 최적화**: 빌드타임 WebP 자동 변환 및 리사이징으로 이미지 파일 용량 **99.6% 극적 감소** (최대 370KB ➡️ 1.5KB)
 - **아키텍처 설계**: 백엔드 서버 병목 방지를 위한 클라이언트단 Gemini API 직접 호출 및 5단계 fallback 파이프라인 설계
-- **[🔗 상세 구현 기여도 및 트러블슈팅 보러가기](https://doyeon-portfolio.web.app/#projects)**
+- **[🔗 상세 구현 기여도 및 트러블슈팅 보러가기](https://github.com/dorigum/Final_ZIPT_Project)**
 
 ---
 
@@ -34,7 +34,7 @@
 - **동시성 제어**: 마감 직전 동시 신청 상황에서의 데이터 무결성을 위해 **JPA 비관적 락(Pessimistic Lock)** 적용
 - **보안성 극대화**: Refresh Token Rotation(RTR), SHA-256 해싱, Redis 블랙리스트 기반 로그아웃 예외 차단
 - **테스트 환경**: Testcontainers를 도입하여 실제 MySQL 환경과 100% 일치하는 통합 테스트 CI 파이프라인 구성
-- **[🔗 상세 구현 기여도 및 트러블슈팅 보러가기](https://doyeon-portfolio.web.app/#projects)**
+- **[🔗 상세 구현 기여도 및 트러블슈팅 보러가기](https://github.com/dorigum/3_CodeMate_Project)**
 
 ---
 
@@ -45,7 +45,7 @@
 - **UX 인터랙션**: 좋아요 및 댓글 액션에 **낙관적 업데이트(Optimistic Update)** 적용으로 네트워크 지연 없는 체감 속도 0ms 구현
 - **클라우드 포팅**: 2인 AWS 배포 프로젝트를 공모전 제출을 목적으로 Firebase Auth / Realtime DB / Hosting 환경으로 포팅 완수
 - **Service**: [dorigum-codetrip.web.app](https://dorigum-codetrip.web.app/)
-- **[🔗 상세 구현 기여도 및 트러블슈팅 보러가기](https://doyeon-portfolio.web.app/#projects)**
+- **[🔗 상세 구현 기여도 및 트러블슈팅 보러가기](https://github.com/dorigum/2_CodeTrip_Project)**
 
 ---
 
@@ -55,7 +55,7 @@
 - **구조적 유연성**: MVC 패턴을 충실히 적용해 UI와 백엔드 트랜잭션을 분리하여 향후 웹으로의 이식성을 고려한 설계 진행
 - **결제 관리**: 회원/비회원 구매액 포인트 적립 및 차감 트랜잭션 안전성 확보 및 VVIP 구매 이력 추적 구현
 - **보안 기초**: 민감한 DB 접속 정보를 properties 파일로 분리하고 gitignore를 활용하는 등 초기 보안성 습관 수립
-- **[🔗 상세 구현 기여도 및 트러블슈팅 보러가기](https://doyeon-portfolio.web.app/#projects)**
+- **[🔗 상세 구현 기여도 및 트러블슈팅 보러가기](https://github.com/dorigum/1_Cafe_kiosk_Project)**
 
 ---
 
