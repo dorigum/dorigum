@@ -13,6 +13,7 @@
 - 🛠️ 서비스 기획, 사용자 경험, 백엔드 개발, 프론트엔드, 배포 자동화까지 전체 흐름을 이해하려고 공부하고 있어요.
 - 📝 작은 실습도 기록으로 남기고, 에러와 해결 과정도 다시 설명할 수 있게 정리하려고 해요.
 - 📧 `kkamang03@gmail.com`
+- 🐻‍❄️ **실시간 웹 포트폴리오**: https://doyeon-portfolio.web.app/
 
 ---
 
@@ -22,7 +23,6 @@
 
 > 등기부등본 분석, 임대차계약서 검토, HUG 전세보증보험 조건 확인, 동네 인프라 브리핑을 한 흐름으로 연결한 전세사기 방지 플랫폼이에요.
 
-- **Service**: https://zipt.store/
 - **Frontend Repo**: https://github.com/1-ZIPT/front_zipt
 - **Backend Repo**: https://github.com/1-ZIPT/back_zipt
 - **Frontend**: React 19, Vite, React Router, TanStack Query, Zustand, SCSS, Kakao Maps, Gemini API
@@ -78,7 +78,7 @@
 
 - **Main Repo**: https://github.com/dorigum/2_CodeTrip_Project
 - **Firebase Log Repo**: https://github.com/dorigum/CodeTrip-firebase-log
-- **Service**: https://newagent-9c2a8.web.app/
+- **Service**: https://dorigum-codetrip.web.app/
 - **Original Deploy**: AWS 기반 2인 팀 프로젝트 배포 경험
 - **Personal Refactor**: 공모전 제출 목적의 Firebase Authentication / Realtime Database / Hosting 전환
 - **Stack**: React, Vite, Zustand, Tailwind CSS, Express, MySQL, AWS, Firebase Authentication, Realtime Database, Firebase Hosting
@@ -237,4 +237,4 @@
 > 오늘의 커밋이 내일의 저를 조금 더 단단하게 만들어준다고 믿어요.<br>
 > 기획과 개발, 배포를 함께 이해하는 PM으로 성장하고 싶어 공부하고 있습니다 ✨
 
-🗓️ _Last Updated: 2026-07-17_
+🗓️ _Last Updated: 2026-07-22_
