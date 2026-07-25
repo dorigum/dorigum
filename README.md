@@ -12,7 +12,7 @@
 - 🧭 사용자의 문제와 흐름을 먼저 정리한 뒤 기능으로 옮기는 과정을 좋아해요.
 - 🛠️ 서비스 기획, 사용자 경험, 백엔드 개발, 프론트엔드, 배포 자동화까지 전체 흐름을 이해하려고 공부하고 있어요.
 - 📧 `kkamang03@gmail.com`
-- 🐻‍❄️ **실시간 웹 포트폴리오**: **[doyeon-portfolio.web.app](https://doyeon-portfolio.web.app/)** 
+- 🐻‍❄️ **실시간 웹 포트폴리오**: **[doyeon-portfolio.web.app](https://doyeon-dev-portfolio.web.app/)** 
 
 ---
 
